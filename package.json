@@ -1,0 +1,25 @@
+{
+  "name": "commercetools-js-sdk-training",
+  "version": "1.0.0",
+  "description": "commercetools JS SDK Training exercises",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/commercetools/commercetools-js-sdk-training.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "commercetools GmbH",
+  "license": "ISC",
+  "dependencies": {
+    "@commercetools/api-request-builder": "^4.1.1",
+    "@commercetools/get-credentials": "^2.1.5",
+    "@commercetools/sdk-client": "^1.5.8",
+    "@commercetools/sdk-middleware-auth": "^4.0.3",
+    "@commercetools/sdk-middleware-http": "^4.0.2",
+    "chalk-animation": "^1.6.0",
+    "cli-highlight": "^2.0.0",
+    "node-fetch": "^2.2.0"
+  }
+}
